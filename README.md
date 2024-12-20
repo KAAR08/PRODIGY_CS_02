@@ -59,7 +59,7 @@ ImaPixMa has the following features:
 #### Output
 - Saved image:
 ![Saved](static/decrypted_img.jpg)
-<img src="static/decrypted_img.jpg" width="300" height="200" alt="Image description">
+<img src="static/decrypted_img.jpg" width="500" height="400" alt="Image description">
 
 Is the image similar to the original image?
 
