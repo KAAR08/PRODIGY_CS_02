@@ -28,38 +28,36 @@ ImaPixMa has the following features:
 
 - Original image:
  We will play around with the image below
- ![Original](static/original.jpg)
+<img src="static/original.jpg" width="900" height="400" alt="Image description">
 
 ### Encrypting an image
 
 
 - Selecting the image to encrypt:
 
-![Selecting](static/selecting_img.png)
+<img src="static/selecting_img.png" width="1000" height="400" alt="Image description">
 
 - Encryption by clicking encrypt button:
-![Selecting](static/encryption.png)
+<img src="static/encryption.png" width="900" height="400" alt="Image description">
 
 #### Output
 - Saved image:
-![Saved](static/encrypted_img.jpg)
+<img src="static/encrypted_img.jpg" width="900" height="400" alt="Image description">
 
 
 ### Decrypting an image
 
 
 - Selecting the image to decrypt:
-
-![Selecting](static/encrypted_img.jpg)
+<img src="static/encrypted_img.jpg" width="1000" height="400" alt="Image description">
 
 - Decryptiom by clicking decrypt button:
-![Selecting](static/decryption.png)
+<img src="static/decryption.png" width="900" height="400" alt="Image description">
 
 
 #### Output
 - Saved image:
-![Saved](static/decrypted_img.jpg)
-<img src="static/decrypted_img.jpg" width="500" height="400" alt="Image description">
+<img src="static/decrypted_img.jpg" width="900" height="400" alt="Image description">
 
 Is the image similar to the original image?
 
