@@ -28,7 +28,7 @@ ImaPixMa has the following features:
 
 - Original image:
  We will play around with the image below
-<img src="static/original.jpg" width="900" height="400" alt="Image description">
+<img src="static/original.jpg" width="900" height="600" alt="Image description">
 
 ### Encrypting an image
 
